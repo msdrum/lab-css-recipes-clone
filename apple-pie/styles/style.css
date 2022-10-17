@@ -1,0 +1,38 @@
+#hero-image {
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  height: 100vh; /* vw pega 100% da altura da tela*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 64px;
+}
+
+#p1-img-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-1 {
+  margin-top: 54px;
+  width: 700px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.img-1 {
+  width: 350px;
+}
+
+#topic1-list1-img2 {
+}
+
+#topic2-list2 {
+}
