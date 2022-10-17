@@ -13,7 +13,8 @@
   font-size: 64px;
 }
 
-#p1-img-1 {
+.content {
+  font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,7 +24,6 @@
 .text-1 {
   margin-top: 54px;
   width: 700px;
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 
@@ -31,8 +31,24 @@
   width: 350px;
 }
 
-#topic1-list1-img2 {
+.image-2 {
+  width: 350px;
 }
 
-#topic2-list2 {
+hr {
+  width: 750px;
+}
+
+h2 {
+  padding-right: 555px;
+}
+
+ul {
+  /*padding-right: 330px;*/
+  width: 675px;
+}
+
+ol {
+  width: 675px;
+  margin-bottom: 64px;
 }
