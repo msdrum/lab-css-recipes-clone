@@ -44,8 +44,8 @@ h2 {
 }
 
 ul {
-  /*padding-right: 330px;*/
   width: 675px;
+  list-style-type: "-";
 }
 
 ol {
