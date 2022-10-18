@@ -40,15 +40,27 @@ hr {
 }
 
 h2 {
-  padding-right: 555px;
+  width: 700px;
 }
 
 ul {
-  width: 675px;
+  width: 700px;
   list-style-type: "-";
 }
 
 ol {
-  width: 675px;
+  width: 700px;
   margin-bottom: 64px;
+}
+
+.num1 {
+  list-style-type: "1) ";
+}
+
+.num2 {
+  list-style-type: "2) ";
+}
+
+.num3 {
+  list-style-type: "3) ";
 }
